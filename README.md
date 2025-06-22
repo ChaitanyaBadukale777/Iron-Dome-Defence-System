@@ -69,4 +69,19 @@ A **Pygame-based visual simulation** prototype replicating the behavior of an an
 ```bash
 python iron_dome_simulation.py
 ```
+## 📢 Disclaimer
+This is a visual simulation prototype created solely for demonstration and educational purposes. It does not represent or simulate any real-world defense system. Inspired by the concept of the Israeli Iron Dome.
 
+## ✨ Inspired By
+- The Iron Dome missile defense system of Israel
+
+- Real-time defense logic and threat interception
+
+- Educational simulations of warfare systems using Python
+
+## 📬 Contact
+If you'd like to contribute or provide feedback:
+
+- 💬 LinkedIn: Your Name
+
+- 🌐 GitHub: YourUsername
